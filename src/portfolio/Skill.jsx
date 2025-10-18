@@ -9,6 +9,10 @@ const Skills = () => {
     "TAILWIND",
     "REACT",
     "REDUX",
+    "PYTHON",
+    "Django",
+    "SQL",
+    "PSQL",
     "Learning New Technologies",
   ];
 

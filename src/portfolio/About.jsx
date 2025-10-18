@@ -13,10 +13,10 @@ const About = () => {
           </h2>
           <p className="text-lg text-gray-700 leading-relaxed">
             Hi, I’m <span className="font-semibold">Aswin Shivdhas</span>, a
-            passionate <span className="font-medium">React Developer</span> with
+            passionate <span className="font-medium">Full Stack Developer</span> with
             strong skills in{" "}
             <span className="text-indigo-600 font-semibold">
-              JavaScript, React, and Redux
+              JavaScript, React, Redux, Python, Django, SQL, And PSQL
             </span>
             . I enjoy building seamless, user-friendly applications and
             constantly improving my craft by learning new technologies.
@@ -55,7 +55,7 @@ const About = () => {
               />
             </div>
             <div className="absolute -bottom-6 left-1/2 -translate-x-1/2 bg-white shadow-md px-6 py-2 rounded-xl text-sm font-medium text-gray-700">
-              React Developer
+              Full Stack Developer
             </div>
           </div>
         </div>
