@@ -49,7 +49,7 @@ const About = () => {
           <div className="relative group">
             <div className="w-64 h-64 rounded-2xl overflow-hidden shadow-2xl transform group-hover:scale-105 transition duration-500">
               <img
-                src="aswin.jpg" 
+                src="images/aswin.jpg" 
                 alt="Aswin Shivdhas"
                 className="w-full h-full object-cover"
               />

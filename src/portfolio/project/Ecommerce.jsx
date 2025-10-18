@@ -3,13 +3,13 @@ import Navbar from "../Nav";
 
 const PetFoodEcommerce = () => {
   const images = [
-    "images/paw1.png",
-    "images/paw2.png",
-    "images/paw3.png",
-    "images/pawwish.png",
-    "images/pawcart.png",
+    "/images/paw1.png",
+    "/images/paw2.png",
+    "/images/paw3.png",
+    "/images/pawwish.png",
+    "/images/pawcart.png",
   ];
-  const videos = ["videos/pawuserlog.mp4", "videos/pawpayment.mp4", "videos/pawadminlog.mp4"];
+  const videos = ["/videos/pawuserlog.mp4", "/videos/pawpayment.mp4", "/videos/pawadminlog.mp4"];
 
   const [activeTab, setActiveTab] = useState("Images"); 
   const [currentImage, setCurrentImage] = useState(0);

@@ -16,7 +16,7 @@ const CloneProject = () => {
           <div className="flex-1">
             <div className="overflow-hidden rounded-2xl shadow-2xl transform transition duration-500 hover:scale-105">
               <img
-                src="images/nav.png" 
+                src="/images/nav.png" 
                 alt="Clone Project"
                 className="w-full h-80 "
               />
@@ -42,7 +42,7 @@ const CloneProject = () => {
           <div className="flex-1 pt-30">
             <div className="overflow-hidden rounded-2xl shadow-2xl transform transition duration-500 hover:scale-105">
               <img
-                src="images/website.jpg" 
+                src="/images/website.jpg" 
                 alt="Clone Project"
                 className="w-full h-80 object-cover"
               />
