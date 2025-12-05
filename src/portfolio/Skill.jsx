@@ -13,6 +13,8 @@ const Skills = () => {
     "Django",
     "SQL",
     "PSQL",
+    "ORM",
+    "DRF",
     "Learning New Technologies",
   ];
 

@@ -31,13 +31,14 @@ const About = () => {
 
           <div className="flex gap-4 mt-6">
             <a
-              href="#contact"
+              href="#Contact"
               className="px-6 py-3 rounded-xl bg-indigo-600 text-white font-medium shadow-lg hover:bg-indigo-700 transition"
             >
               Get in Touch
             </a>
             <a
-              href="Aswin React Resume.pdf"
+              href="aswin_doc/Aswin_pythonfullstack_Resume.pdf"
+              download
               className="px-6 py-3 rounded-xl border border-gray-300 text-gray-800 font-medium shadow hover:bg-gray-100 transition"
             >
               Download CV

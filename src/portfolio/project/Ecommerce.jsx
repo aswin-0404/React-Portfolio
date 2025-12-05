@@ -100,6 +100,18 @@ const PetFoodEcommerce = () => {
               frontend development skills, seamless UI/UX, and complete
               e-commerce functionality
             </p>
+            <div className="mt-6">
+                <h4 className="text-xl font-semibold text-gray-900 mb-2">
+                  GitHub Repository
+                </h4>
+                <a
+                  href="https://github.com/aswin-0404/React-Pet-Food-E-commerce"
+                  target="_blank"
+                  className="text-indigo-600 text-lg font-medium underline hover:text-indigo-800"
+                >
+                  View Source Code on GitHub
+                </a>
+              </div>
           </div>
         </div>
       </div>

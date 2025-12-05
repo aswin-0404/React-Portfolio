@@ -2,8 +2,10 @@ import React from "react";
 
 const Projects = () => {
   const projects = [
-    { title: "Clone Project", link: "clone" },
-    { title: "Pet Food E-commerce", link: "petfood" },
+    { title: "Clone Project(HTML-CSS)", link: "clone" },
+    { title: "Pet Food E-commerce(React-Tailwind)", link: "petfood" },
+    { title:"Student-Management-system(python)",link:"SLMS"},
+    {title:"E-Commerce-Backend(python)",link:"ecommerce"},
   ];
 
   return (
